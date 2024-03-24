@@ -1,16 +1,29 @@
-body{
+
+
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+/* body{
     background-color: rgb(107, 102, 102);
     background-image: url("gradient_bg.png");
 }
-a{
-    text-decoration: none;
-    color: rgb(255, 241, 241);
-}
+
 .child{
     border: 1px solid darkblue;
     display: grid;
     grid-template-columns: repeat(2,1fr);
-    max-width: 300px;
+    max-width: 320px;
     padding: 100px;
     color: #ffff;
     background-color: white;
@@ -23,7 +36,23 @@ a{
     background-color: wheat;
     color: black;
 }
+ */
+/* a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
 a:hover{
     text-decoration: underline;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 16, 109);
 }
+body{
+    background-color: rgb(107, 102, 102);
+    color: #fff;
+   
+} 
+h1{
+    color: black;
+}
+.child{
+    
+} */
