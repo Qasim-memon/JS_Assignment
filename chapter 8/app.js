@@ -18,4 +18,4 @@ for (var i=1;i<=100;i++){
 
 
 
-
+document.write("Qs 3","<br><br>")
