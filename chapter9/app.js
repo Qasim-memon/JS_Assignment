@@ -58,6 +58,11 @@ console.log("The sum of digits of", number, "is:", sum);
 
 
 
+for (let i = 0; i <= 10; i++) {
+    document.write(11-i)
+}
+
+
 
 
 
